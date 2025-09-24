@@ -1,0 +1,19 @@
+{
+  "name": "Advanced Telegram AI Bot",
+  "description": "An advanced Telegram AI chatbot with GPT, DALL·E image generation, and voice recognition.",
+  "repository": "https://github.com/JAY01-CYBER/advanced-telegram-ai-bot",
+  "keywords": ["telegram", "bot", "ai", "openai", "gpt", "dalle", "voice"],
+  "env": {
+    "TELEGRAM_TOKEN": {
+      "description": "Your Telegram Bot Token from @BotFather",
+      "required": true
+    },
+    "OPENAI_API_KEY": {
+      "description": "Your OpenAI API Key",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    { "url": "heroku/python" }
+  ]
+}
