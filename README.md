@@ -28,8 +28,8 @@ Choose your favorite platform:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/JAY01-CYBER/advanced-telegram-ai-bot.git
+   cd advanced-telegram-ai-bot
    ```
 
 2. Install requirements:
