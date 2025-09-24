@@ -5,7 +5,11 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT-orange?style=for-the-badge)](https://openai.com/) 
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Deploy on Railway](https://img.shields.io/badge/Deploy-Railway-purple?style=for-the-badge)](https://railway.app/)
+## 🚀 Deploy to Render
 
+Click the button below to deploy your own AI Telegram Bot instantly on **Render**.
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
 ---
 
 ## 🌟 Features
