@@ -1,2 +1,13 @@
+# Telegram bot library (pinned to last version that supports Updater)
 python-telegram-bot==13.15
+
+# OpenAI SDK
 openai==0.27.8
+
+# Backport of imghdr (removed from Python 3.13+)
+imghdr
+
+# Common helpers
+requests
+tqdm
+aiohttp
