@@ -5,9 +5,9 @@ services:
     plan: free
     buildCommand: pip install -r requirements.txt
     startCommand: python bot.py
+    pythonVersion: 3.10
     envVars:
       - key: TELEGRAM_TOKEN
-        value: "your-telegram-token"
+        value: "your-telegram-bot-token-here"
       - key: OPENAI_API_KEY
-        value: "your-openai-key"
-    pythonVersion: 3.10
+        value: "your-openai-api-key-here"
