@@ -6,4 +6,6 @@ services:
     startCommand: python bot.py
     envVars:
       - key: TELEGRAM_TOKEN
+        value: your_telegram_bot_token_here
       - key: OPENAI_API_KEY
+        value: your_openai_api_key_here
